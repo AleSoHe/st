@@ -23,7 +23,8 @@ necessary as root):
 This is my personal build, so I added or will add patches to match my likes.
 Right now, the changes are:
     - Default size: 14 (as I am getting blinder)
-    - Colorscheme: Dracula (Patch)
+    - Colorscheme Dracula (Patch)
+    - Alpha for transparency (Patch)
 
 ## Running st
 
