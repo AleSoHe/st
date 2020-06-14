@@ -25,6 +25,7 @@ Right now, the changes are:
     - Default size: 16 (as I am getting blinder)
     - Colorscheme Dracula (Patch)
     - Alpha for transparency (Patch)
+    - Scrollback: to scroll through the terminal, with Shift [PageUp/PageDown]
 
 ## Running st
 
